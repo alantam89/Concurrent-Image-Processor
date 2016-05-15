@@ -1,7 +1,7 @@
 # Concurrent-Image-Processor
 Demonstrates concurrency in both data parallel and task parallel versions
 Author: Alan Tam
-Date: MAy 15, 2016
+Date: May 15, 2016
 
 This program demonstrate concurrency by processing images following the regex: image_.*?.jpg. 
 
